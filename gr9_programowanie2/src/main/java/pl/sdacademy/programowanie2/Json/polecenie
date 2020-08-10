@@ -1,0 +1,10 @@
+Napisz aplikację pobierającą dane synoptyczne, a następnie wyświetlającą informacje o:
+-Średniej temperaturze dla wszystkich stacji -Średniej wilgotności dla wszystkich stacji
+-Średnim ciśnieniu dla wszystkich stacji -Średniej ilości opadów
+-Mieście z maksymalną oraz minimalną temperaturą
+-Mieście z maksymalnym i minimalnym ciśnieniem -Mieście z maksymalną i minimalną sumą opadu
+Źródło danych oraz narzędzia:
+-dane można pobrać ze strony:
+ https://danepubliczne.imgw.pl/api/data/synop
+ -Do łatwiejszej analizy danych można wykorzystać formatter ze strony
+ https:// jsonformatter.curiousconcept.com/

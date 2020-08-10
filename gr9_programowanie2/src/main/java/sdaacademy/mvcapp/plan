@@ -1,0 +1,22 @@
+1. Książka telefoniczna. Aplikacja konsolowa do zapisywania numeru, imienia i nazwiska osoby
+--- MODEL ----
+Klasa Person
+
+    id -----> unikatowe pole
+    name
+    phone
+   Wszystko do listy
+
+   Opcje do wykonania w modelu:
+   1. Dodanie nowej osoby
+   2. Wyświetlanie listy osób
+   3. Wyszukiwanie po imieniu
+   4. Usuwanie
+   5. Edycja
+
+---CONTROLER---
+
+
+
+
+---View----

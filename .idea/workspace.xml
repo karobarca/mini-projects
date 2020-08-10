@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1f51712-d019-4d21-85f2-3a4cb911f03d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/programowanie2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/controller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/model/ChildName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/model/ModelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/model/SexType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/view/MenuOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/namebaseapp/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Collections/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Collections/TextAnalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/DateTimeManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/FilesManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json/Pogoda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json/Stacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json/polecenie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json2/AirQuality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json2/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json2/Commune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Json2/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/RegExpManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Threads/Pi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Threads/Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/controller/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/model/ModelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/plan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/view/MenuOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/sdaacademy/mvcapp/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr9_programowanie2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gr9_programowanie2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/java/pl/sdacademy/programowanie2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr9_programowanie2/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gr9_programowanie2/src/main/resources/log4j2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gr9_programowanie2" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1WwaSnduGAP8OEK2XEUgWrqikWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f51712-d019-4d21-85f2-3a4cb911f03d" name="Default Changelist" comment="" />
+      <created>1580063112651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580063112651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
